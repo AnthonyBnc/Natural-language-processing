@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+torch>=2.1.0
+Pillow
+numpy
+pandas
+streamlit
